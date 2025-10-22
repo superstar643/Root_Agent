@@ -1,0 +1,5 @@
+{
+  "name": "Crisis Response Agent",
+  "description": "A web application that acts as the Root Agent of a Crisis Response System, capable of handling user requests about emergencies by either responding directly or coordinating with other specialized agents like a Data Agent or Emergency Response Agent.",
+  "requestFramePermissions": []
+}
